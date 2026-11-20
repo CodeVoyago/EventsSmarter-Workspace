@@ -20,14 +20,14 @@
                 </div>
                 <blockquote>A solution for busy parents, students, and school event coordinators</blockquote>
                 <p>
-                    <strong>Michael V. Parker</strong>, President and CEO <strong>created {{ env('APP_NAME') }}</strong> as a solution for
+                    <strong>{{ env('APP_NAME') }}</strong> was created as a solution for
                     busy parents, students, and school event coordinators. This innovative platform allows you to <i>purchase
                         and sell</i> tickets for various events throughout the school year, including junior and senior prom, homecoming,
                     football games, etc., in one user-friendly website.
                 </p>
             </div>
             <div class="col-md-5">
-                <img src="/images/coding-about.jpg" alt="Michael V. Parker" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
+                <img src="/images/coding-about.jpg" alt="EventsSmarter feature illustration" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
             </div>
         </div>
 
@@ -39,7 +39,7 @@
 
         <div class="row">
             <div class="col-md-6">
-                <img src="/images/login-about.png" alt="Michael V. Parker" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
+                <img src="/images/login-about.png" alt="EventsSmarter feature illustration" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
             </div>
             <div class="col-md-6">
                 <h2>Manage sales, number of tickets, and who purchased</h2>
@@ -70,7 +70,7 @@
                     and to get directions.</p>
             </div>
             <div class="col-md-6">
-                <img src="/images/buy-about.png" alt="Michael V. Parker" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
+                <img src="/images/buy-about.png" alt="EventsSmarter feature illustration" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
             </div>
         </div>
 
@@ -82,7 +82,7 @@
 
         <div class="row">
             <div class="col-md-6">
-                <img src="/images/dashboard-about.png" alt="Michael V. Parker" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
+                <img src="/images/dashboard-about.png" alt="EventsSmarter feature illustration" style="object-fit: cover;border-radius: 50%;width:100%;max-width:400px;height:400px;border:1px solid rgba(0,0,0,.3);">
             </div>
             <div class="col-md-6">
                 <h2>Your own personal dashboard</h2>
@@ -103,12 +103,9 @@
             <div class="col-md-12">
                 <h2>Empowering students, athletes, and everyday people</h2>
                 <blockquote>Brought to you by Professional {{ env('APP_NAME') }}</blockquote>
-                <p>Michael and Justin graduated from the University of Richmond E. Clairborne Robin’s School of
-                    Business with bachelor’s degrees in Business Administration with a focus on entrepreneurial
-                    management and marketing. Both Michael and Justin were also professional athletes. They have a
-                    successful clothing line in the same name, {{ env('APP_NAME') }}, empowering students, athletes, and
-                    everyday people to make the right decisions in life through their motivational “life in motion”
-                    apparel.</p>
+                <p>{{ env('APP_NAME') }} is built by a team with a background in business, entrepreneurship and
+                    professional sports, empowering students, athletes, and everyday people to make the right decisions
+                    in life.</p>
             </div>
         </div>
 

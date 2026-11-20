@@ -790,7 +790,7 @@ class EventController extends Controller
             $data = ['name' => $username, 'link' => $link];
             Mail::send('feedback', $data, function ($message) use ($user) {
                 $message->to($user->email)->subject('Leave Feedack');
-                $message->from('info@athleticjunction.com', 'Events Smarter');
+                $message->from('info@example.test', 'Events Smarter');
             });
         }
     }

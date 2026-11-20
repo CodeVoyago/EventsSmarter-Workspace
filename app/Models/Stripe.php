@@ -218,8 +218,8 @@ class Stripe
     function getPriceFee($cents, $app_fee_percentage)
     {
         // $stripe_fee = $cents * StripeFees::$actual_percentage + StripeFees::$fixed;
-        $michael_fee = $cents * (.01 * $app_fee_percentage) + 10; // (5% + 10 cents + stripe fee : 2.9% + 30 cents   all: 7.9% + 40 cents )
-        $this->fee = intval(ceil($michael_fee));
+        $platform_fee = $cents * (.01 * $app_fee_percentage) + 10; // (5% + 10 cents + stripe fee : 2.9% + 30 cents   all: 7.9% + 40 cents )
+        $this->fee = intval(ceil($platform_fee));
         return $this->fee;
     }
 

@@ -64,8 +64,8 @@ class Ticket extends Model
         $cents = $this->attributes['price'] ?? 0;
 
         $stripe_fee = ($cents - StripeFees::$fixed) * StripeFees::$actual_percentage + StripeFees::$fixed;
-        $michael_fee = ($cents - $stripe_fee) / (Stripe::$app_fee_percentage + 100) * Stripe::$app_fee_percentage;
-        $this->fee = intval(ceil($michael_fee + $stripe_fee));
+        $platform_fee = ($cents - $stripe_fee) / (Stripe::$app_fee_percentage + 100) * Stripe::$app_fee_percentage;
+        $this->fee = intval(ceil($platform_fee + $stripe_fee));
         return $cents;
     }
 
@@ -73,8 +73,8 @@ class Ticket extends Model
     {
         $cents = $this->attributes['vip_ticket_price'] ?? 0;
         $stripe_fee = ($cents - StripeFees::$fixed) * StripeFees::$actual_percentage + StripeFees::$fixed;
-        $michael_fee = ($cents - $stripe_fee) / (Stripe::$app_fee_percentage + 100) * Stripe::$app_fee_percentage;
-        $this->fee = intval(ceil($michael_fee + $stripe_fee));
+        $platform_fee = ($cents - $stripe_fee) / (Stripe::$app_fee_percentage + 100) * Stripe::$app_fee_percentage;
+        $this->fee = intval(ceil($platform_fee + $stripe_fee));
         return $cents;
     }
 
@@ -83,8 +83,8 @@ class Ticket extends Model
 
         $cents = $this->attributes['vip_ticket_price'] - $this->attributes['price'];
         $stripe_fee = ($cents - StripeFees::$fixed) * StripeFees::$actual_percentage + StripeFees::$fixed;
-        $michael_fee = ($cents - $stripe_fee) / (Stripe::$app_fee_percentage + 100) * Stripe::$app_fee_percentage;
-        $this->fee = intval(ceil($michael_fee + $stripe_fee));
+        $platform_fee = ($cents - $stripe_fee) / (Stripe::$app_fee_percentage + 100) * Stripe::$app_fee_percentage;
+        $this->fee = intval(ceil($platform_fee + $stripe_fee));
         return $cents;
     }
 

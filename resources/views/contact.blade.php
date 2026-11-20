@@ -22,7 +22,7 @@
                             </li>
                             <li class="fusion-li-item" style="display: flex;align-items: center;">
                                 <i class="fa fa-envelope" style="font-size: 16px;"></i>
-                                <div class="fusion-li-item-content" style="margin-left:31px;"><strong>{{ trans('auth.email') }}</strong>: <a href="mailto:mvp@eventssmarter.com">mvp@eventssmarter.com</a></div>
+                                <div class="fusion-li-item-content" style="margin-left:31px;"><strong>{{ trans('auth.email') }}</strong>: <a href="mailto:mvp@example.test">mvp@example.test</a></div>
                             </li>
                         </ul>
                     </div>

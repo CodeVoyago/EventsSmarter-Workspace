@@ -7,8 +7,8 @@ and live streams/meetings. About 12,000 lines of PHP in `app/`, 222 routes (93 A
 
 ## Where this code comes from
 
-EventsSmarter is the product of **Athletic Junction LLC, a company owned by Joseph
-Lyu Staley**, who also wrote and maintains this code (package name
+EventsSmarter is the product of **Athletic Junction LLC, a company owned by the author
+of this repository**, who also wrote and maintains this code (package name
 `athleticjunctionllc/eventssmarter`). It is not work done for an employer or client.
 The code is released under the MIT licence; see [`LICENSE`](LICENSE).
 

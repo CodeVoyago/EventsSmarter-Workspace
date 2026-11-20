@@ -197,7 +197,7 @@
                             <li class="bold">255 S Orange Avenue Suite 104 PMB1058</li>
                             <li class="bold">Orlando, FL 32801</li>
                             <li class="bold">United States</li>
-                            <li class="bold">mvp@eventssmarter.com</li>
+                            <li class="bold">mvp@example.test</li>
                         </ul>
                     </div>
                 </div>

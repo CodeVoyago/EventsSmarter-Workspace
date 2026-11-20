@@ -22,7 +22,7 @@
                 </select>
             </div>
             <div class="col-md-12" style="text-align: right">
-                {{ trans('event.please-contact') }} <a href="mailto:mvp@eventssmarter.com">mvp@eventssmarter.com</a> {{ trans('event.to-add-more-venues') }}
+                {{ trans('event.please-contact') }} <a href="mailto:mvp@example.test">mvp@example.test</a> {{ trans('event.to-add-more-venues') }}
             </div>
         </div>
     </div>

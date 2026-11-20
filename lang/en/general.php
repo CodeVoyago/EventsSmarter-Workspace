@@ -416,7 +416,7 @@ return [
                         <p>Customers who purchase tickets for the first time enter this information when they create their own personal account at www.EventsSmarter.com</p>
                         <p>Information for persons with disabilities <br>
                             Some events may provide specialized wheelchair accommodation.<br>
-                            Should you need such specialized accommodation, you may contact the appropriate event promoter or contact us at notifications@eventssmarter.com for the necessary information and guidance. We assure you that all information shared about your health and disability will be
+                            Should you need such specialized accommodation, you may contact the appropriate event promoter or contact us at notifications@example.test for the necessary information and guidance. We assure you that all information shared about your health and disability will be
                             treated as confidential. Such information can only be obtained from “EventsSmarter” if it is sent at your initiative in order to purchase the special ticket when creating personal account (profile) on www.EventsSmarter.com</p>
                         <p>Along with all data listed above, we store the following information about your purchases in your personal account:<br>
                         <ul>
@@ -460,7 +460,7 @@ return [
                             Consent:
                             <br>
                             If you have not purchased a ticket from us but have subscribed to our platform, the necessary personal data will be processed based on your consent, which you can withdraw at any time by writing a short letter to <a
-                                href='mailto:notifications@EVENTSSMARTER.com'>notifications@EVENTSSMARTER.com</a> or click the “Unsubscribe“ button in any email you receive from us. Withdrawal of consent does not affect the lawfulness of consent-based processing prior to its withdrawal",
+                                href='mailto:notifications@example.test'>notifications@example.test</a> or click the “Unsubscribe“ button in any email you receive from us. Withdrawal of consent does not affect the lawfulness of consent-based processing prior to its withdrawal",
         'natural-legal-personas-receiving-data' => 'Natural and legal persons receiving your data',
         'privacy-24' => 'The Company is committed to preserving the confidentiality of your data and to comply with all legal requirements regarding the sharing and disclosure of this personal data. Such disclosure only occurs if there is g reason to do so and sufficient guarantees to ensure an
                                 adequate level of protection. The Company may disclose your personal data to the following recipients when it is legal and / or necessary, for example:
@@ -486,7 +486,7 @@ return [
                             <li>We use your data for conclusion or performance of a contract for as long as the contractual relationship with you is in force or in accordance with the legal deadlines applicable in case of disputes regarding the services provided by us.</li>
                         </ul>
                         Also, personal information is stored in your personal account at www.EventsSmarter.com for indefinite period of time. You can easily edit your personal details at any time / besides the email that serves as the permanent identifier of the client in our system(s) / and you can
-                        request to deactivate your account at our website at any time by contacting our team at <a href="mailto:notifications@EventsSmarter.com">notifications@EventsSmarter.com</a>
+                        request to deactivate your account at our website at any time by contacting our team at <a href="mailto:notifications@example.test">notifications@example.test</a>
                         <br>
                         Once your account is deactivated, we will delete all of your personal data stored in our web store. However, personal data from your account will be stored in our company archive for cases of possible legal claims or administrative procedures within a period of 5 years from
                         the date of the event for which you purchased the last ticket through your account.',
@@ -520,7 +520,7 @@ return [
         'privacy-30' => 'In order to exercise some of your rights, you can contact us by phone, e-mail, regular mail or fill in a form in our office. We will respond to every request for access to personal data no later than one month after submitting it in electronic form unless you specify another
                         preferred way.
                         <br>
-                        You can also send your request to the Company‘s data protection officer (DPO) at <a href="mailto:notifications@eventssmarter.com">notifications@eventssmarter.com</a>
+                        You can also send your request to the Company‘s data protection officer (DPO) at <a href="mailto:notifications@example.test">notifications@example.test</a>
                         <br>
                         Your written request should include: <br>
                     <ul>
@@ -548,6 +548,6 @@ return [
         'privacy-policy-changes' => 'Privacy Policy Changes',
         'privacy-31' => 'We will notify you of any changes to this Privacy Policy by publishing the current version of our Privacy Policy.
                     <br>
-                    You may address any questions relating to your personal data to our team by email: <a href="mailto:notifications@EventsSmarter.com">notifications@EventsSmarter.com</a>'
+                    You may address any questions relating to your personal data to our team by email: <a href="mailto:notifications@example.test">notifications@example.test</a>'
     ]
 ];

@@ -285,7 +285,7 @@ return [
                         <p>Customers who purchase tickets for the first time enter this information when they create their own personal account at www.EventsSmarter.com</p>
                         <p>Information for persons with disabilities <br>
                             Some events may provide specialized wheelchair accommodation.<br>
-                            Should you need such specialized accommodation, you may contact the appropriate event promoter or contact us at notifications@eventssmarter.com for the necessary information and guidance. We assure you that all information shared about your health and disability will be treated as confidential. Such information can only be obtained from “EventsSmarter” if it is sent at your initiative in order to purchase the special ticket when creating personal account (profile) on www.EventsSmarter.com</p>
+                            Should you need such specialized accommodation, you may contact the appropriate event promoter or contact us at notifications@example.test for the necessary information and guidance. We assure you that all information shared about your health and disability will be treated as confidential. Such information can only be obtained from “EventsSmarter” if it is sent at your initiative in order to purchase the special ticket when creating personal account (profile) on www.EventsSmarter.com</p>
                         <p>Along with all data listed above, we store the following information about your purchases in your personal account:<br>
                         <ul>
                             <li>Which events you have purchased tickets for - name, location and date of events;</li>
@@ -317,7 +317,7 @@ return [
                             <br><br>
                             Consentir:
                             <br>
-                            Si no nos ha comprado un boleto pero se ha suscrito a nuestra plataforma, los datos personales necesarios se procesarán en función de su consentimiento, que puede retirar en cualquier momento escribiendo una breve carta a <a href="mailto:notifications@ EVENTSSMARTER.com">notifications@EVENTSSMARTER.com</a> o haga clic en el botón "Cancelar suscripción" en cualquier correo electrónico que reciba de nosotros. La retirada del consentimiento no afecta a la legalidad del tratamiento basado en el consentimiento antes de su retirada',
+                            Si no nos ha comprado un boleto pero se ha suscrito a nuestra plataforma, los datos personales necesarios se procesarán en función de su consentimiento, que puede retirar en cualquier momento escribiendo una breve carta a <a href="mailto:notifications@ EVENTSSMARTER.com">notifications@example.test</a> o haga clic en el botón "Cancelar suscripción" en cualquier correo electrónico que reciba de nosotros. La retirada del consentimiento no afecta a la legalidad del tratamiento basado en el consentimiento antes de su retirada',
         'natural-legal-personas-receiving-data' => 'Personas físicas y jurídicas receptoras de sus datos',
         'privacy-24' => 'La Compañía se compromete a preservar la confidencialidad de sus datos y cumplir con todos los requisitos legales relacionados con el intercambio y la divulgación de estos datos personales. Dicha divulgación solo se produce si existen razones para hacerlo y garantías suficientes para garantizar un nivel adecuado de protección. La Empresa podrá divulgar sus datos personales a los siguientes destinatarios cuando sea legal y/o necesario, por ejemplo:
                         <ul>
@@ -337,7 +337,7 @@ return [
                             <li>Utilizamos sus datos en función de nuestros intereses legítimos, en la medida en que dicho procesamiento no vaya más allá de sus derechos e intereses para ser borrados o anonimizados;</li>
                             <li>Utilizamos sus datos para la conclusión o ejecución de un contrato mientras la relación contractual con usted esté vigente o de acuerdo con los plazos legales aplicables en caso de disputas relacionadas con los servicios prestados por nosotros.</li>
                         </ul>
-                        Además, la información personal se almacena en su cuenta personal en www.EventsSmarter.com por un período de tiempo indefinido. Puede editar fácilmente sus datos personales en cualquier momento / además del correo electrónico que sirve como identificador permanente del cliente en nuestro (s) sistema (s) / y puede solicitar desactivar su cuenta en nuestro sitio web en cualquier momento poniéndose en contacto con nuestro equipo en < a href="mailto:notificaciones@EventsSmarter.com">notificaciones@EventsSmarter.com</a>
+                        Además, la información personal se almacena en su cuenta personal en www.EventsSmarter.com por un período de tiempo indefinido. Puede editar fácilmente sus datos personales en cualquier momento / además del correo electrónico que sirve como identificador permanente del cliente en nuestro (s) sistema (s) / y puede solicitar desactivar su cuenta en nuestro sitio web en cualquier momento poniéndose en contacto con nuestro equipo en < a href="mailto:notificaciones@example.test">notificaciones@example.test</a>
                         <br>
                         Una vez que se desactive su cuenta, eliminaremos todos sus datos personales almacenados en nuestra tienda web. No obstante, los datos personales de su cuenta serán almacenados en nuestro archivo de empresa para casos de posibles reclamaciones judiciales o procedimientos administrativos en un plazo de 5 años desde la fecha del evento para el que adquirió la última entrada a través de su cuenta.',
         'how-company-protects-personal-data' => 'Cómo la Compañía protege los datos personales',
@@ -361,7 +361,7 @@ return [
         'how-to-exercise-your-rights' => 'Cómo ejercer sus derechos',
         'privacy-30' => 'Para ejercer algunos de sus derechos puede contactar con nosotros por teléfono, correo electrónico, correo ordinario o rellenar un formulario en nuestra oficina. Responderemos a cada solicitud de acceso a datos personales a más tardar un mes después de enviarla en formato electrónico, a menos que especifique otra forma preferida.
                             <br>
-                            También puede enviar su solicitud al responsable de protección de datos (RPD) de la Empresa a <a href="mailto:notifications@eventssmarter.com">notifications@eventssmarter.com</a>
+                            También puede enviar su solicitud al responsable de protección de datos (RPD) de la Empresa a <a href="mailto:notifications@example.test">notifications@example.test</a>
                             <br>
                             Su solicitud por escrito debe incluir: <br>
                         <ul>
@@ -389,6 +389,6 @@ return [
         'privacy-policy-changes' => 'Cambios en la política de privacidad',
         'privacy-31' => 'Le notificaremos cualquier cambio en esta Política de privacidad mediante la publicación de la versión actual de nuestra Política de privacidad.
                         <br>
-                        Puede dirigir cualquier pregunta relacionada con sus datos personales a nuestro equipo por correo electrónico: <a href="mailto:notifications@EventsSmarter.com">notifications@EventsSmarter.com</a>'
+                        Puede dirigir cualquier pregunta relacionada con sus datos personales a nuestro equipo por correo electrónico: <a href="mailto:notifications@example.test">notifications@example.test</a>'
     ]
 ];
