@@ -7,8 +7,12 @@ and live streams/meetings. About 12,000 lines of PHP in `app/`, 222 routes (93 A
 
 ## Where this code comes from
 
-This is the owner's own product, published by Athletic Junction LLC (package name
-`athleticjunctionllc/eventssmarter`). This folder is a cleaned copy made for
+EventsSmarter is the product of **Athletic Junction LLC, a company owned by Joseph
+Lyu Staley**, who also wrote and maintains this code (package name
+`athleticjunctionllc/eventssmarter`). It is not work done for an employer or client.
+The code is released under the MIT licence; see [`LICENSE`](LICENSE).
+
+This folder is a cleaned copy made for
 development on a machine with no internet access. It does **not** connect to, and
 must never be pointed at, the production system.
 
@@ -22,7 +26,7 @@ must never be pointed at, the production system.
 - Photos and images of unknown licence, a photo of a real person, card-brand logos
   and two real arena seat maps. They are replaced with generated placeholders of the
   same name. Only the product's own logos were kept.
-- A staff member's personal email (Telescope gate) and the site-verification token.
+- A personal email address (Telescope gate) and the site-verification token.
 
 ## Running offline
 
