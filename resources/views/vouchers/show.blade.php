@@ -28,7 +28,6 @@
                         @endif
                     </div>
 
-                    <?php $amount = new \NumberFormatter('us_US', \NumberFormatter::CURRENCY); ?>
                     <div class="panel-body">
 
                         @foreach ($vouchers as $voucher)
